@@ -10,7 +10,7 @@ Given the configuration paths for Apache HTTP server, PHP interpreter, and MySQL
 * Browser
 
 ## Installation
-1. Download the latest release
+1. Download the latest release (as ZIP) or clone this repo (git clone https://github.com/birhanum/SCAAMP.git)
 2. Extract the files to your local web server's document root 
 3. Make sure your web server has file permissions
 5. Open your browser at http://localhost/SCAAMP/  
